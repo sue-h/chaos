@@ -1,0 +1,39 @@
+
+.FormGroup{
+    margin-bottom: 1rem;
+    height: 100px;
+    
+}
+.LabelBox{
+    text-align: center;
+    margin-bottom: 10px;
+}
+.BtnLogin{
+    margin-bottom: 40px;
+}
+.TextBox{
+    text-align: left;
+}
+.InputBox2 {
+    margin-top: 10px;
+    width: 99%;
+    border: 1px solid rgba(0, 0, 0, 0.125);
+    height: 38px;
+
+}
+.BtnLogin{ 
+    width: 100%;
+}
+.Alert {
+    color: #721c24;
+    background-color: #f8d7da;
+    border-color: #f5c6cb;
+    position: relative;
+
+    padding: .75rem 1.25rem;
+    border: 1px solid transparent;
+    border-radius: .25rem;
+}
+.LoginBox {
+    margin: 20px;
+}

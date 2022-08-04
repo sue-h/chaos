@@ -1,0 +1,47 @@
+.NavContainer {
+    top: 0;
+    left:0;
+    margin:0;
+}
+.Navbar {
+    background: #343a40!important;
+    float: left; 
+    width: 100%;
+    display: flex;
+    align-items: center;
+    position: relative;
+    padding: 0.5rem 1rem;
+    top: 0;
+    left: 0;
+}
+.MainLogo{
+    display: inline;
+    float : left;
+    color: #fff;
+    text-decoration: none;
+    font-weight: 400;
+    font-size: 20px;
+    text-align: left;
+}
+.Navmenu a {
+    color: #fff;
+    text-decoration: none;
+    padding: 5px;
+}
+.LeftMenu {
+    float : left;
+}
+.DropDown li {
+    list-style: none;
+}
+.DropDown li a {
+    color: #343a40;
+}
+.LeftMenu {
+    float: left;
+}
+.RightMenu {
+    font-weight: 400;
+    font-size: 15px;
+    align-items: center;
+}

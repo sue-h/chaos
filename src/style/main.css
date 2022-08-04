@@ -1,0 +1,50 @@
+.Cardbody {
+    /*border: 1px solid black;*/
+    flex: 1 1 auto;
+    min-height: 1px;
+    height: 600px;
+    padding: 1.25rem;
+    margin-top: auto;
+    margin-bottom: auto;
+}
+
+.Card {
+    border: 1px solid rgba(0, 0, 0, 0.125);
+    width: 510px;
+    height: 340px;
+    margin: auto;
+    border-radius: .25rem;
+    margin-top: 100px;
+    flex-direction: column;
+    background-clip: content-box;
+}
+.Card img{
+    margin-top: 21px;
+    margin-left: 21px;
+    float: left;
+}
+.TextCenter {
+    margin-top: 100px;
+    margin-bottom: auto;
+    /*border: 1px solid black;*/
+    text-align: center;
+}
+.TextCenter h4 {
+    margin-bottom: .5rem;
+    font-size: 1.5rem;
+}
+.BtnBlock {
+    background-color: #007bff;
+    border-color: #007bff;
+    cursor: pointer;
+    font-weight: 400;
+    color: #212529;
+    text-align: center;
+    vertical-align: middle;
+    padding: .375rem 5.0rem;
+    font-size: 1rem;
+    line-height: 1.5;
+    border-radius: .25rem;
+    text-decoration: none;
+    color: white;
+}

@@ -1,0 +1,91 @@
+.Container {
+    padding: 0%;
+    top: 0;
+    left: 0;
+    margin:0;
+}
+.IncdntinqContainer{
+    background-color: #f8f9fa!important;
+    border: 1px solid rgba(0,0,0,.125);
+    border-radius: 0.25rem;
+    padding: 20px;
+    height: 800px;
+    min-height: 500px;
+}
+.SelectArrow {
+    border-width: 1px;
+    border: black solid ipx;
+    height: calc(1.5em + 0.5rem + 2px);
+    border-radius: 0.25rem;
+    width: 100%;
+    display: flex;
+}
+
+.SelectBox {
+    float: left;
+    margin-bottom: 16px;
+    height: 100px;
+    margin-top: 16px;
+    padding: 1px;
+}
+.InputBox {
+    height: 26px;
+    border-radius: 0.25rem;
+    border-width: 1px;
+    border: black solid ipx;
+    width: 6rem;
+    display: flex;
+}
+.InputBoxContainer {
+    float: left;
+}
+.DateInput {
+    height: 28px;
+    border-radius: 0.25rem;
+    border-width: 1px;
+    border: black solid ipx;
+    width: 8rem;
+}
+.DataPick {
+    width: 7.5rem;
+    height: 28px;
+    border-radius: 0.25rem;
+    border-width: 1px;
+    padding: 0;
+    margin: 0;  
+}
+.DataPickT{
+    width: 8.8rem;
+    height: 28px;
+    border-radius: 0.25rem;
+    border-width: 1px;
+    padding: 0;
+    margin: 0;  
+}
+.SelectDateBox {
+    width: 121.75px;
+}
+.SelectDateBoxT {
+    width: 9rem;
+}
+.FilterBox {
+    height: 100px;
+}
+.SubmitBox {
+    width: 100px;
+    margin: auto;
+}
+.FilterButton {
+    background-color: #007BFF;
+    border: none;
+    color: white;
+    cursor: pointer;
+    width: 46px;
+    height: 31px;
+    padding: 4px 8px;
+    border-radius: 0.25rem;
+}
+.SubmitButton {
+    
+}
+
